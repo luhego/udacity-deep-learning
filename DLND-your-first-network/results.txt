@@ -1,0 +1,24 @@
+epochs = 3000
+learning_rate = 0.001
+hidden_nodes = 20
+output_nodes = 1
+(0.18453883885698869, 0.5)
+
+epochs = 3000
+learning_rate = 0.001
+hidden_nodes = 10
+output_nodes = 1
+(0.11337136106193871, 0.5)
+
+epochs = 3000
+learning_rate = 0.01
+hidden_nodes = 10
+output_nodes = 1
+(-0.013760896295573602, 0.5)
+
+epochs = 3000
+learning_rate = 0.01
+hidden_nodes = 5
+output_nodes = 1
+(0.0014383512563897749, 0.5)
+
